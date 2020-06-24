@@ -114,3 +114,31 @@ age3 == 17
 age1 != 17
 age2 != 17
 age3 != 17
+
+
+  password  !=   password2
+  password2  !=  password3
+  password3  !=  password
+
+
+country1 != country2
+country2 != country3
+country3  = country1
+
+phoneNumber1 !=  phoneNumber2
+phoneNumber2 !=  phoneNumber3
+phoneNumber3 !=  phoneNumber1
+
+
+ email1 != email2
+ email2 != email3
+ email3 != email1
+
+ lastName1 !=  lastName2
+ lastName2 !=  lastName3
+ lastName3 !=  lastName1
+
+
+firstName3  != firstName3
+firstName3  != firstName3
+firstName3  != firstName3
